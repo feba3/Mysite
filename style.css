@@ -197,7 +197,12 @@ section .title::after{
     margin-bottom: 10px;
 }
 .skills .skills-content .left p{
-     text-align: justify;
+    text-align: justify;
+    letter-spacing: 2px;
+    text-indent: 50px;
+    line-height: 1.8;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
 }
 .skills .skills-content .right .bars{
      margin-bottom: 15px;
@@ -259,6 +264,11 @@ section .title::after{
 }
 .contact .contact-content .left p{
     text-align: justify;
+    letter-spacing: 2px;
+    text-indent: 50px;
+    line-height: 1.8;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
 }
 .contact .contact-content .left .icons{
     margin: 10px 0;
